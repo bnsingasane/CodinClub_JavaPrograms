@@ -1,6 +1,4 @@
 
-echo "Welcome to Employee Wage Computation Problem"
-
 public class employeeWage {
 
 	public static void main(String[] args) {
