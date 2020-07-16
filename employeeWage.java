@@ -1,5 +1,3 @@
-echo "Welcome to Employee Wage Computation Problem"
-
 public class employeeWage {
 
 	public static final int PART_TIME=1;
